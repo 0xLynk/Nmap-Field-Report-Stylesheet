@@ -42,7 +42,4 @@ If you already have an Nmap scan saved in XML format, convert it into an interac
 ```bash
 xsltproc -o report.html nmap-field-report.xsl scan.xml
 ```
----
-
-## Examples
 
