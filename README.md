@@ -4,7 +4,7 @@
 
 This stylesheet focuses on **clarity, structure, and operator usability**. It presents Nmap results in a way that allows testers to reason about exposure quickly and accurately during active engagements and provide stakeholders with meaningful reports.
 
-## ✨ Capabilities
+## Capabilities
 
 - **Executive-level summary metrics**  
   Automatically summarizes hosts scanned, hosts online, open ports identified, and unique exposed services.
@@ -29,7 +29,7 @@ This stylesheet focuses on **clarity, structure, and operator usability**. It pr
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Convert an Existing Nmap XML File
 
