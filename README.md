@@ -40,6 +40,6 @@ This stylesheet focuses on **clarity, structure, and operator usability**. It pr
 If you already have an Nmap scan saved in XML format, convert it into an interactive HTML report using:
 
 ```bash
-xsltproc -o report.html nmap-field-report.xsl scan.xml
+xsltproc -o report.html Nmap-Field-Report.xsl scan.xml
 ```
 
