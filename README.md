@@ -1,7 +1,7 @@
 <div align="center" width="100%">
     <h1>Nmap Field Report Stylesheet</h1>
     <p>Nmap Field Report Stylesheet is a practical XSL transformation that converts Nmap XML output into a clean, interactive HTML report designed for real-world penetration testing and network assessment workflows.</p><p>
-    <a target="_blank" href="">Example</a><p>
+    <a target="_blank" href="https://0xlynk.github.io/Nmap-Field-Report-Stylesheet/example_report.html">Example</a><p>
     <a href="https://buymeacoffee.com/0xlynk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
 
